@@ -1,6 +1,8 @@
 # Trigger Spotify commands with Osascript Mac
 > When you are too lazy to open spotify app, control it from the terminal without moving from your tab
 
+> Example script [here](https://gist.github.com/ellcom/58f47d7eeb3601734ef9) - this automatically plays or pauses when you execute the command
+
 ```ssh
 # start
 tell application "Spotify" to play
