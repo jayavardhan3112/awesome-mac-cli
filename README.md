@@ -28,7 +28,7 @@ Awesome Mac
 
 #### Scripts
 
-> Here is the script **run.scpt** (right now its specific to my micro-services which runs in one command) To Run - `osascript run.scpt`
+- Here is the script **run.scpt** (its specific to my micro-services which runs in one command) To Run - `osascript run.scpt` [![Open-Source Software][OSS Icon]](https://ss64.com/osx/osascript.html)
 
 #### Text Editors
 
