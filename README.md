@@ -8,6 +8,7 @@ Awesome Mac
 
 - [Awesome Mac](#awesome-mac)
 - [Contents](#contents)
+- [Scripts](#scripts)
 - [Reading and Writing Tools](#reading-and-writing-tools)
     - [Text Editors](#text-editors)
 - [Developer Tools](#developer-tools)
@@ -24,6 +25,10 @@ Awesome Mac
 ## Reading and Writing Tools
 
 *Applications to edit text, I suggest the open-source editors*
+
+#### Scripts
+
+> Here is the script **run.scpt** (right now its specific to my micro-services which runs in one command) To Run - `osascript run.scpt`
 
 #### Text Editors
 
